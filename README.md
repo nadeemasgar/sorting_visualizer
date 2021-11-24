@@ -14,24 +14,3 @@
 #### 6. Heap Sort
 
 #### In this, we can change the size of array and control the visualization speed.
-
-## AppPreview 
-
-### Initial Preview (Before Sorting)
-
-<p align="center">
-  <img src="app_preview/initial_preview.PNG" width="700" alt="accessibility text">
-</p>
-
-### While Sorting
-
-<p align="center">
-  <img src="app_preview/while_sorting.PNG" width="700" alt="accessibility text">
-</p>
-
-
-### After Sorting
-
-<p align="center">
-  <img src="app_preview/after_sorting.PNG" width="700" alt="accessibility text">
-</p>
